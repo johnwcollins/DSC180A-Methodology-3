@@ -1,3 +1,4 @@
 # DSC180A-Methodology-3
-John Collins
-jwcollins@ucsd.edu
+John Collins and Justin Lu
+
+
